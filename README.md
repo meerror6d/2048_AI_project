@@ -24,6 +24,6 @@ Before running the game, ensure you have the following installed:
 ## Screenshots
 
 ### splashscreen
-![Splashscreen](./img/splashscreen.jpg)
+![Splashscreen](./img/splashscreen.JPG)
 
 
