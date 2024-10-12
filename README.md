@@ -9,9 +9,9 @@ This project is an AI-powered version of the classic **2048 game**, which implem
   - **Fuzzy Logic**
   - **Genetic Algorithm**
 - Adjustable grid sizes and timers based on difficulty levels:
-  - Easy: 5x5 grid, 30 seconds
-  - Medium: 4x4 grid, 20 seconds
-  - Hard: 3x3 grid, 10 seconds
+  - **Easy:** 5x5 grid, 30 seconds
+  - **Medium:** 4x4 grid, 20 seconds
+  - **Hard:** 3x3 grid, 10 seconds
 - Interactive UI for mode and difficulty selection.
 - Real-time game updates and scoring.
 
