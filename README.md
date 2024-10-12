@@ -26,4 +26,7 @@ Before running the game, ensure you have the following installed:
 ### splashscreen
 ![Splashscreen](./img/splashscreen.JPG)
 
+### Board
+![Board](./img/board.JPG)
+
 
