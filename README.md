@@ -1,7 +1,7 @@
 # 2048 AI Game
 
 ## Description
-This project is an AI-powered version of the classic 2048 game, which implements different artificial intelligence algorithms, including Alpha-Beta Pruning, Fuzzy Logic, and Genetic Algorithm, to make optimal moves. Players can select the difficulty level and enjoy a unique gaming experience.
+This project is an AI-powered version of the classic **2048 game**, which implements different artificial intelligence algorithms, including Alpha-Beta Pruning, Fuzzy Logic, and Genetic Algorithm, to make optimal moves. Players can select the difficulty level and enjoy a unique gaming experience.
 
 ## Features
 - Three AI algorithms to choose from:
