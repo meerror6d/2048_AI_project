@@ -15,4 +15,10 @@ This project is an AI-powered version of the classic **2048 game**, which implem
 - Interactive UI for mode and difficulty selection.
 - Real-time game updates and scoring.
 
+## Prerequisites
+Before running the game, ensure you have the following installed:
+
+- **Python 3.x**
+- **Pygame library**
+
 
