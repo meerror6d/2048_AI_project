@@ -21,4 +21,9 @@ Before running the game, ensure you have the following installed:
 - **Python 3.x**
 - **Pygame library**
 
+## Screenshots
+
+### splashscreen
+![Splashscreen](./img/splashscreen.jpg)
+
 
